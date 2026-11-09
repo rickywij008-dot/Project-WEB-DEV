@@ -1,0 +1,6 @@
+{
+  "name": "ArkaWeb Studio - Jasa Pembuatan Website & Booking Konsultasi",
+  "description": "Portofolio penyedia jasa pembuatan website profesional, galeri proyek interaktif, sistem booking konsultasi langsung, dan kalkulator estimasi paket harga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
